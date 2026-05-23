@@ -1,0 +1,1 @@
+Ambimed Healthcare provides home nursing and caregiving services for elderly individuals and patients. This application enables caregiving professionals to onboard themselves so that Ambimed can connect them with clients. It also helps caregivers track their current assignments, job history, and earnings from the services they provide.
