@@ -1,0 +1,176 @@
+# Privacy Policy
+
+**Last Updated:** May 28, 2026  
+**Effective Date:** May 28, 2026
+
+This Privacy Policy explains how Ambimed Healthcare ("Company", "we", "us", or "our") collects, uses, stores, and protects personal information when users access or use the caregiver and home nurse booking application, website, and related services (collectively, the "Services"). This policy is intended to help users understand what data is collected, why it is collected, how it is used, and what choices and rights are available. [blog](https://blog.google/intl/en-mena/product-updates/android-chrome-and-play/google-play-safety/)
+
+By creating an account, accessing, or using the Services, users acknowledge that they have read and understood this Privacy Policy. [onesignal](https://onesignal.com/blog/google-play-data-safety-compliance/)
+
+## Scope
+
+This Privacy Policy applies to personal data collected through the mobile application, any associated website, customer support interactions, and related booking or account management services offered by the Company. [blog](https://blog.google/intl/en-mena/product-updates/android-chrome-and-play/google-play-safety/)
+
+This policy should be read together with any in-app disclosures and permission prompts presented at the time data is collected, especially where sensitive or device-level permissions are requested. [iubenda](https://www.iubenda.com/en/blog/fix-make-sure-apps-fulfill-prominent-disclosure-requirements/)
+
+## Information Collected
+
+The Services may collect information that users provide directly, information collected automatically through the app or device, and information generated through use of the Services. [onesignal](https://onesignal.com/blog/google-play-data-safety-compliance/)
+
+### Information provided directly
+
+The following information may be collected directly from users:
+
+- Mobile phone number, required for account registration, login, account recovery, and OTP-based authentication.
+- Full name, if entered by the user in the profile.
+- Profile picture, if the user chooses to upload one.
+- Address or service location, if provided, to help connect users with nearby caregivers or home nurses.
+- Booking-related details, such as appointment requests, timing preferences, service needs, and communication submitted through the app.
+- Messages, support requests, complaints, and feedback sent to customer support or grievance channels.
+
+### Information collected automatically
+
+When users access or use the Services, the following technical or usage information may be collected automatically:
+
+- Device type, model, and operating system version.
+- App usage information, such as screens viewed, features used, session events, crash logs, diagnostics, and performance data.
+- Log information such as timestamps, app version, language, approximate technical identifiers, and error reports.
+- Location-related information derived from the address entered by the user, and if enabled in a future version of the app, device-based location information subject to separate consent and permission prompts.
+
+### Sensitive and personal data
+
+The app may process personal data such as phone number, address, profile photo, booking details, and communications needed to deliver services. Developers publishing on Google Play are required to accurately disclose app data collection, sharing, and security practices in the Google Play Data safety section, including data handled by third-party SDKs or service providers. [developer.android](https://developer.android.com/google/play/integrity/other)
+
+## How Information Is Used
+
+Personal information may be used for the following purposes:
+
+- To create, authenticate, and manage user accounts.
+- To verify identity through OTP login or account verification processes.
+- To match users with caregivers or home nurses and facilitate bookings.
+- To display user profile information within the app where necessary for service delivery.
+- To communicate about bookings, service updates, account activity, support matters, and policy changes.
+- To improve app performance, fix bugs, monitor service quality, and enhance user experience.
+- To maintain security, prevent misuse, detect fraud, investigate complaints, and enforce legal terms.
+- To comply with legal, regulatory, law enforcement, or contractual obligations.
+
+Where the app collects or transmits personal or sensitive user data that is not obvious from the app’s core functionality, Google Play requires a prominent in-app disclosure and affirmative consent before collection or transmission begins. [iubenda](https://www.iubenda.com/en/blog/fix-make-sure-apps-fulfill-prominent-disclosure-requirements/)
+
+## Legal Basis and Consent
+
+Where required by applicable law, data is processed based on user consent, performance of a service requested by the user, compliance with legal obligations, and legitimate purposes such as security, fraud prevention, and service improvement. [meity.gov](https://www.meity.gov.in/static/uploads/2024/06/2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf)
+
+Users may withdraw consent for optional information, such as profile picture or optional address fields, by updating their profile settings or contacting the Company, subject to any legal or operational limitations. [meity.gov](https://www.meity.gov.in/static/uploads/2024/06/2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf)
+
+## Permissions Requested
+
+### Camera permission
+
+Camera access is requested only when a user chooses to take and upload a profile picture through the app. The camera is not accessed for any unrelated purpose. [iubenda](https://www.iubenda.com/en/blog/fix-make-sure-apps-fulfill-prominent-disclosure-requirements/)
+
+If future versions of the app request additional permissions, such as location, storage, microphone, or notifications, those permissions should be accompanied by a clear explanation in the app and this Privacy Policy should be updated accordingly. [blog](https://blog.google/intl/en-mena/product-updates/android-chrome-and-play/google-play-safety/)
+
+## Sharing of Information
+
+Personal information is not sold, rented, or shared with third parties for their independent marketing purposes. [onesignal](https://onesignal.com/blog/google-play-data-safety-compliance/)
+
+Information may be disclosed only in the following circumstances:
+
+- To caregivers or home nurses selected or booked by the user, limited to the information reasonably necessary to deliver the requested service.
+- To service providers or vendors that support app functionality, such as OTP delivery, cloud hosting, analytics, customer support, security monitoring, or database infrastructure, subject to confidentiality and data-processing obligations. [blog](https://blog.google/intl/en-mena/product-updates/android-chrome-and-play/google-play-safety/)
+- To comply with applicable law, regulation, legal process, court order, or governmental request.
+- To protect the rights, property, safety, users, caregivers, nurses, or the Company.
+- In connection with a merger, acquisition, restructuring, financing, or sale of assets, subject to appropriate safeguards and notice where required.
+
+Google Play requires developers to disclose not only first-party data handling but also data collection and sharing performed through third-party libraries, SDKs, and service providers used in the app. [onesignal](https://onesignal.com/blog/google-play-data-safety-compliance/)
+
+## Third-Party Services
+
+The Services may rely on third-party providers for technical operations, including cloud hosting, database services, analytics, crash reporting, OTP/SMS delivery, customer communication, maps, and payment processing if enabled. These providers may process personal data on behalf of the Company only for authorized purposes related to the operation of the Services. [onesignal](https://onesignal.com/blog/google-play-data-safety-compliance/)
+
+Examples of such providers may include:
+
+- Cloud hosting or database vendors.
+- OTP or SMS gateway providers.
+- Analytics and crash reporting providers.
+- Payment processors, if payments are integrated.
+- Customer support or communications tools.
+
+The actual list of providers should be reviewed against the production app stack and updated before publication so that the policy and the Google Play Data safety declaration remain accurate. [blog](https://blog.google/intl/en-mena/product-updates/android-chrome-and-play/google-play-safety/)
+
+## Data Storage and Security
+
+Reasonable and industry-standard administrative, technical, and organizational safeguards are used to help protect personal information against unauthorized access, loss, misuse, alteration, or disclosure. Such measures may include restricted access controls, authentication controls, encryption in transit where applicable, secure server infrastructure, logging, and periodic security review. [developer.android](https://developer.android.com/google/play/integrity/other)
+
+No method of transmission over the internet or method of electronic storage is completely secure, and absolute security cannot be guaranteed. [onesignal](https://onesignal.com/blog/google-play-data-safety-compliance/)
+
+## Data Retention
+
+Personal information is retained for as long as necessary to maintain user accounts, provide booked services, resolve disputes, enforce agreements, comply with legal obligations, and support legitimate business and security needs. [meity.gov](https://www.meity.gov.in/static/uploads/2024/06/2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf)
+
+When retention is no longer necessary, data may be deleted, anonymized, or securely archived in accordance with applicable law and internal retention practices. [meity.gov](https://www.meity.gov.in/static/uploads/2024/06/2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf)
+
+## User Rights
+
+Subject to applicable law, users may have the right to:
+
+- Access personal information held about them.
+- Correct or update inaccurate or incomplete information.
+- Delete their account and request erasure of associated personal data, subject to legal or operational retention requirements.
+- Withdraw consent for optional data processing.
+- Request information about the categories of personal data being processed and the purposes of processing.
+- File a complaint or grievance regarding data handling practices.
+
+Users can exercise these rights through in-app account settings where available, or by contacting the Company using the contact details listed below. [meity.gov](https://www.meity.gov.in/static/uploads/2024/06/2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf)
+
+## India-Specific Notice
+
+For users in India, this Privacy Policy is intended to support compliance with the Digital Personal Data Protection Act, 2023, including the right to seek grievance redressal in relation to personal data processing. [dpdpa](https://www.dpdpa.com/dpdpa2023/chapter-3/section13.html)
+
+Indian businesses that act as data fiduciaries are expected to provide a grievance contact with details such as name, email address, and physical address in the privacy notice or app interface. [blutic](https://www.blutic.club/resources/blog/dpdp-compliant-grievance-redressal-what-it-requires-from-every-business)
+
+### Grievance Officer
+
+Users in India may contact the Grievance Officer regarding complaints, concerns, or requests related to personal data:
+
+- **Name:** [Insert Grievance Officer Name]
+- **Email:** [Insert Grievance Officer Email]
+- **Postal Address:** [Insert Registered Business Address]
+- **Phone:** [Optional Contact Number]
+
+The Company should insert actual grievance contact details before publishing the app or privacy policy. [blutic](https://www.blutic.club/resources/blog/dpdp-compliant-grievance-redressal-what-it-requires-from-every-business)
+
+## Children’s Privacy
+
+The Services are not intended for individuals under the age of 18. The Company does not knowingly collect personal information from children. If it becomes aware that a child has provided personal information in violation of this policy, reasonable steps will be taken to delete that information, subject to applicable law. [onesignal](https://onesignal.com/blog/google-play-data-safety-compliance/)
+
+## Data Breach Response
+
+If a data breach or security incident is identified that is likely to materially affect users’ personal information, reasonable steps may be taken to investigate, contain, remediate, and notify affected users or authorities where required by applicable law. [meity.gov](https://www.meity.gov.in/static/uploads/2024/06/2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf)
+
+## International Transfers
+
+If servers, service providers, or technical infrastructure are located outside the user’s state or country, personal information may be processed in other jurisdictions that may have different data protection laws. Where such transfers occur, reasonable contractual or technical safeguards should be used where required by applicable law. [onesignal](https://onesignal.com/blog/google-play-data-safety-compliance/)
+
+## Changes to This Policy
+
+This Privacy Policy may be updated from time to time to reflect changes in legal requirements, app functionality, data practices, or service providers. Material changes may be communicated through the app, website, or other appropriate means. [blog](https://blog.google/intl/en-mena/product-updates/android-chrome-and-play/google-play-safety/)
+
+Continued use of the Services after the revised Privacy Policy becomes effective means the user accepts the updated policy, to the extent permitted by law. [onesignal](https://onesignal.com/blog/google-play-data-safety-compliance/)
+
+## Contact Information
+
+For questions, privacy requests, or concerns about this Privacy Policy or the Company’s data handling practices, contact:
+
+- Company Name:** Ambimed Healthcare
+- Email: Info@ambimed.in
+
+## Publishing Checklist
+
+Before publishing this Privacy Policy and app listing, confirm the following:
+
+- Replace all placeholders with actual legal entity, email, and address details.
+- Confirm whether analytics, crash reporting, OTP, payments, maps, or cloud vendors are used, and name them if appropriate.
+- Ensure the Google Play Data safety form exactly matches the app’s real data collection, sharing, security, and deletion practices. [developer.android](https://developer.android.com/google/play/integrity/other)
+- Host this Privacy Policy at a publicly accessible URL and add that URL to the Google Play store listing. [iubenda](https://www.iubenda.com/en/blog/fix-make-sure-apps-fulfill-prominent-disclosure-requirements/)
+- If the app requests any sensitive permission, ensure a prominent in-app disclosure appears before collection and that affirmative consent is obtained where required. [iubenda](https://www.iubenda.com/en/blog/fix-make-sure-apps-fulfill-prominent-disclosure-requirements/)
